@@ -49,3 +49,7 @@ REST controller exposing endpoints to send emails (`/sendMail` and `/sendMailWit
    
    spring.mail.properties.mail.smtp.starttls.enable=true
 
+### Project Screenshot : 
+![Email_Send_Postman](https://github.com/nikhilshinde95/Spring_Boot_Email_Service_App/assets/171656624/7cdeb435-1342-4a74-bcad-fd41a4d3d474)
+
+
