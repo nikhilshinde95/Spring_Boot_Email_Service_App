@@ -29,7 +29,7 @@ REST controller exposing endpoints to send emails (`/sendMail` and `/sendMailWit
 ### Requirements
 
 - Java 8 or higher
-- Maven
+- Gradle 
 - Spring Boot
 
 ### Configuration
