@@ -37,4 +37,15 @@ REST controller exposing endpoints to send emails (`/sendMail` and `/sendMailWit
 1. **Spring Mail Configuration**: Ensure that `spring.mail.username` property is configured in `application.properties` file with the email address you want to send emails from.
 
    ```properties
-   spring.mail.username=your-email@example.com
+   
+spring.mail.host=smtp.gmail.com
+
+spring.mail.port=587
+
+spring.mail.username=Enter your email Id
+
+spring.mail.password= Enter your password
+
+spring.mail.properties.mail.smtp.auth=true
+
+spring.mail.properties.mail.smtp.starttls.enable=true
