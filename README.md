@@ -53,6 +53,6 @@ REST controller exposing endpoints to send emails (`/sendMail` and `/sendMailWit
 ![Email_Send_Postman](https://github.com/nikhilshinde95/Spring_Boot_Email_Service_App/assets/171656624/7cdeb435-1342-4a74-bcad-fd41a4d3d474)
 
 ### Email Receive Screenshot : 
-![Email_Receive_Img](https://github.com/nikhilshinde95/Spring_Boot_Email_Service_App/assets/171656624/ca5327ee-d525-411c-92be-dcb81e8629e3)
 
+![Email_Receive_Img](https://github.com/nikhilshinde95/Spring_Boot_Email_Service_App/assets/171656624/1700bec2-4f23-46b9-92ad-21227ccb117b)
 
